@@ -56,4 +56,3 @@ function handleClick() {
 
 //builds the initial table upon the loading of the page
 buildTable(tableData);
-
